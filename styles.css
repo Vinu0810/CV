@@ -1,0 +1,44 @@
+body {
+    background-color:#5F97AA;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: #51087E;
+    border-width: 4px;
+    width: 5%;
+}
+h1 {
+    color: #674AB3;
+}
+h3 {
+    color:#674AB3;
+}
+p:hover {
+    color: #FAA0A0;
+}
+li:hover {
+    color: #FAA0A0;
+}
+.star:hover {
+    color: silver;
+}
+
+td:hover {
+    color: #FAA0A0;
+}
+
+a {
+    color: #521d64;
+}
+
+#profile { 
+    border-radius: 100%;
+}
+
+h1:hover {
+    color: #B22B27;
+}
+h3:hover {
+    color: #B22B27;
+}
